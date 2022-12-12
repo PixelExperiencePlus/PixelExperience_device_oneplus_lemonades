@@ -1,0 +1,16 @@
+[
+  {
+    "repository": "android_device_oneplus_sm8250-common",
+    "target_path": "device/oneplus/sm8250-common"
+    "repository"   : "device_oneplus_sm8250-common",
+    "target_path"  : "device/oneplus/sm8250-common",
+    "remote"       : "pixel-devices",
+    "branch"       : "thirteen"
+  },
+  {
+    "repository"  : "vendor_oneplus_lemonades",
+    "target_path" : "vendor/oneplus/lemonades",
+    "branch"      : "thirteen",
+    "remote"      : "pixel-devices-blobs"
+  }
+]
