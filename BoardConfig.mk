@@ -17,6 +17,7 @@ DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
 ODM_MANIFEST_FILES += $(DEVICE_PATH)/manifest_odm.xml
 
 # Properties
+TARGET_PRODUCT_PROP += $(DEVICE_PATH)/product.prop
 TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
 
 # Partitions
